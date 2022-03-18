@@ -1,0 +1,7 @@
+C:\Users\Kaizz\source\repos\FinalProject_Server\FinalProject_Server\obj\Release\netcoreapp3.1\PubTmp\Out\FinalProject_Server.exe
+C:\Users\Kaizz\source\repos\FinalProject_Server\FinalProject_Server\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Kaizz\source\repos\FinalProject_Server\FinalProject_Server\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\Kaizz\source\repos\FinalProject_Server\FinalProject_Server\obj\Release\netcoreapp3.1\PubTmp\Out\FinalProject_Server.dll
+C:\Users\Kaizz\source\repos\FinalProject_Server\FinalProject_Server\obj\Release\netcoreapp3.1\PubTmp\Out\FinalProject_Server.deps.json
+C:\Users\Kaizz\source\repos\FinalProject_Server\FinalProject_Server\obj\Release\netcoreapp3.1\PubTmp\Out\FinalProject_Server.runtimeconfig.json
+C:\Users\Kaizz\source\repos\FinalProject_Server\FinalProject_Server\obj\Release\netcoreapp3.1\PubTmp\Out\FinalProject_Server.pdb

@@ -1,0 +1,12 @@
+C:\Users\Kaizz\source\repos\CSharpFinal\CSharpFinal\bin\Debug\CSharpFinal.exe.config
+C:\Users\Kaizz\source\repos\CSharpFinal\CSharpFinal\bin\Debug\CSharpFinal.exe
+C:\Users\Kaizz\source\repos\CSharpFinal\CSharpFinal\bin\Debug\CSharpFinal.pdb
+C:\Users\Kaizz\source\repos\CSharpFinal\CSharpFinal\obj\Debug\CSharpFinal.csproj.AssemblyReference.cache
+C:\Users\Kaizz\source\repos\CSharpFinal\CSharpFinal\obj\Debug\CSharpFinal.Form1.resources
+C:\Users\Kaizz\source\repos\CSharpFinal\CSharpFinal\obj\Debug\CSharpFinal.Properties.Resources.resources
+C:\Users\Kaizz\source\repos\CSharpFinal\CSharpFinal\obj\Debug\CSharpFinal.csproj.GenerateResource.cache
+C:\Users\Kaizz\source\repos\CSharpFinal\CSharpFinal\obj\Debug\CSharpFinal.csproj.CoreCompileInputs.cache
+C:\Users\Kaizz\source\repos\CSharpFinal\CSharpFinal\obj\Debug\CSharpFinal.exe
+C:\Users\Kaizz\source\repos\CSharpFinal\CSharpFinal\obj\Debug\CSharpFinal.pdb
+C:\Users\Kaizz\source\repos\CSharpFinal\CSharpFinal\obj\Debug\CSharpFinal.Form2.resources
+C:\Users\Kaizz\source\repos\CSharpFinal\CSharpFinal\obj\Debug\CSharpFinal.Form3.resources
