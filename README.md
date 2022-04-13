@@ -1,6 +1,6 @@
 # IOS-scrapbook-with-PC By Charp
 
-![](./ppt/1.jpg)
+![](https://github.com/kaizziizg/IOS-scrapbook-with-PC_CSharp/raw/main/ppt/1.JPG)
 ![](./ppt/2.jpg)
 ![](./ppt/3.jpg)
 ![](./ppt/4.jpg)
